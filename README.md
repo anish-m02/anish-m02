@@ -12,7 +12,7 @@ I'm an aspiring data analyst with a passion for data. I look to use my attained 
 ### Socials
                   
                   
-                <p align="left">
+<p align="left">
                       <a href="https://www.github.com/anish-m02" target="_blank" rel="noreferrer">
                     <picture>
                     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
