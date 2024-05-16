@@ -40,6 +40,17 @@ I'm an aspiring data analyst with a passion for data. I look to use my attained 
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg"
     width="36" height="36" alt="PostgreSQL" />
   </a>
+  <a href="https://app.powerbi.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" width="36"
+    height="36" alt="PowerBI" />
+  </a>
+  <a href="https://tableau.com/" target="_blank" rel="noreferrer; return false;">
+    <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/tableau.svg"
+    width="163" height="36" alt="Tableau Logo" />
+  </a>
+</p>
+
+**Skills Snapshot Languages**: Python, SQL Data Manipulation: Pandas, NumPy Data Visualization: Matplotlib, Seaborn, Plotly
                     
 ### Socials
 
@@ -66,3 +77,5 @@ I'm an aspiring data analyst with a passion for data. I look to use my attained 
     </picture>
   </a>
 </p>
+ 
+**Skills Snapshot Languages**: Python, SQL Data Manipulation: Pandas, NumPy Data Visualization: Matplotlib, Seaborn, Plotly Machine Learning: Scikit-Learn Version Control: Git, GitHub
