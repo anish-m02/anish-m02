@@ -77,5 +77,3 @@ I'm an aspiring data analyst with a passion for data. I look to use my attained 
     </picture>
   </a>
 </p>
- 
-**Skills Snapshot Languages**: Python, SQL Data Manipulation: Pandas, NumPy Data Visualization: Matplotlib, Seaborn, Plotly Machine Learning: Scikit-Learn Version Control: Git, GitHub
