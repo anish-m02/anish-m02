@@ -4,7 +4,8 @@ Hi 👋 My name is Anish
 Data Analyst
 ------------
 
-I'm an aspiring data analyst with a passion for data. I look to use my attained organisation and time management skills for a challenging role in data analysis. Progressing through a 12-week intensive Digital Skills boot camp in data with JustIT training, I am looking to build upon my skills and develop new skills to advance to a career as a data analyst. I have completed several projects using Excel, SQL, Python, R, Tableau and Power BI which have been posted to my GitHub and Tableau Public profiles. I am looking to further develop my technical skills as a data analyst in an apprenticeship and use my analytical and numerical skills to assist in the completion of projects, by working with and learning from like-minded individuals from whom I can learn as much as possible during the crucial years of my development.### Skills 
+I'm an aspiring data analyst with a passion for data. I look to use my attained organisation and time management skills for a challenging role in data analysis. Progressing through a 12-week intensive Digital Skills boot camp in data with JustIT training, I am looking to build upon my skills and develop new skills to advance to a career as a data analyst. I have completed several projects using Excel, SQL, Python, R, Tableau and Power BI which have been posted to my GitHub and Tableau Public profiles. I am looking to further develop my technical skills as a data analyst in an apprenticeship and use my analytical and numerical skills to assist in the completion of projects, by working with and learning from like-minded individuals from whom I can learn as much as possible during the crucial years of my development.
+### Skills 
 <p align="left">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg"
